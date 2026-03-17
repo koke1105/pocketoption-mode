@@ -133,7 +133,7 @@
       }
     });
   }
-
+//hui//
   function doSwitchBlock(dir) {
     var wo = isListOpen();
     if (!wo) document.querySelector('.pair,[class*="current-symbol"]').click();
